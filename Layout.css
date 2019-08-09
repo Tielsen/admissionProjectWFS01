@@ -1,6 +1,9 @@
+body{
+    margin: 0;
+}
 #top {
     background-color: rgb(89, 95, 150);
-    margin: 0px 0px 0px 0px;
+    margin: 0 0 0 0;
 }
 #title_1 {
     color: rgb(255, 255, 255);
@@ -38,7 +41,7 @@
     color: rgb(205, 77, 0);
     background-color: rgb(255, 254, 254);
     font-family: Verdana;
-    font-size: 40px;
+    font-size: 250%;
     display: inline-block;
     padding-top: 5.5%;
     padding-bottom: 5.5%;
